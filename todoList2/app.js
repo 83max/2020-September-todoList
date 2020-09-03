@@ -45,7 +45,7 @@ new Vue ({
                 const encode = btoa(arrayStringify);
                 // console.log(encode)
 
-                const myUrl = new URL ("file:///Users/max/Code/todoList2/index.html");
+                const myUrl = new URL ("https://2020-september-todo-list.vercel.app/");
                 myUrl.hash = encode;
                 window.location = myUrl;
 
@@ -116,7 +116,7 @@ new Vue ({
             const encode = btoa(arrayStringify);
             // console.log(encode)
 
-            const myUrl = new URL ("file:///Users/max/Code/todoList2/index.html");
+            const myUrl = new URL ("https://2020-september-todo-list.vercel.app/");
             myUrl.hash = encode;
             window.location = myUrl;
 
@@ -160,7 +160,7 @@ new Vue ({
             const encode = btoa(arrayStringify);
             // console.log(encode)
 
-            const myUrl = new URL ("file:///Users/max/Code/todoList2/index.html");
+            const myUrl = new URL ("https://2020-september-todo-list.vercel.app/");
             myUrl.hash = encode;
             window.location = myUrl;
 
@@ -194,7 +194,7 @@ new Vue ({
             const encode = btoa(arrayStringify);
             // console.log(encode)
 
-            const myUrl = new URL ("file:///Users/max/Code/todoList2/index.html");
+            const myUrl = new URL ("https://2020-september-todo-list.vercel.app/");
             myUrl.hash = encode;
             window.location = myUrl;
 
